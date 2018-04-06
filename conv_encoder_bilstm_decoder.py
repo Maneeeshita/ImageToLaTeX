@@ -504,7 +504,6 @@ with sess.as_default():
 	last_val_acc=0
 	reduce_lr = 0
 	epochs=100
-	print("######################################")
 	#raw_input()
 	print("start")
 	for epoch in range(0,epochs):
