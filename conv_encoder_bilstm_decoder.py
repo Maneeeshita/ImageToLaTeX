@@ -177,7 +177,7 @@ def batchify(data, batch_size):
 ################# PREPROCESSING ########################
 
 print("Loading Data")
-print('HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII')
+
 #print(len(train_list))
 #train, val, test = load_data()he
 
